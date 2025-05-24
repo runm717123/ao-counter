@@ -51,7 +51,7 @@ function App() {
 
 	return (
 		<PageCenterContainer>
-			<MainContainer className="w-[800px]">
+			<MainContainer className="md:w-[800px]">
 				<h1 className="mx-auto w-fit pb-4">= ENCHANTED EQUIPMENT PRICE CALCULATOR =</h1>
 				<div className="grid grid-cols-10 gap-2 items-center w-full">
 					<FormLabel className="col-span-3" htmlFor="equipmentPrice">
